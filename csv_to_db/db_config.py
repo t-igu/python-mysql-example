@@ -1,4 +1,4 @@
 user = 'testuser'
-password = 'testuser'
+password = '*********************'
 host = 'localhost'
 db_name = 'testdb'
