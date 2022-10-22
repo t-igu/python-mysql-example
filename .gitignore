@@ -1,4 +1,4 @@
-config.py
+db_config.py
 __pycache__/
 *.csv
 .jpeg
